@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheila-Inventory-Monitoring-System", "Sheila-Inventory-Monitoring-System\Sheila-Inventory-Monitoring-System.csproj", "{DC2CE2D3-47EF-4996-9A75-BC54568986FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2CE2D3-47EF-4996-9A75-BC54568986FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2CE2D3-47EF-4996-9A75-BC54568986FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2CE2D3-47EF-4996-9A75-BC54568986FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2CE2D3-47EF-4996-9A75-BC54568986FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12BA680-5362-4774-AB1E-72FF5E7330C3}
+	EndGlobalSection
+EndGlobal
